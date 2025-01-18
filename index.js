@@ -73,26 +73,23 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err) => {
-      if (err) {
-        console.log(colors.red("An error occurred while saving the README file."));
-      } else {
-        console.log(colors.green(`Your README.md file has been generated successfully!`));
-      }
-    });
-  }
+  fs.writeFile(fileName, data, (err) => {
+    if (err) {
+      console.log(colors.red("An error occurred while saving the README file."));
+    } else {
+      console.log(colors.green(`Your README.md file has been generated successfully!`));
+    }
+  });
+}
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer
-      .prompt(questions) // Ask the user questions
-      .then((answers) => {
-        const markdownContent = generateMarkdown(answers); // Generate markdown content using answers
-        writeToFile("README2.md", markdownContent); // Save the markdown content to README2.md
-      })
-      .catch((error) => {
-        console.log("Error during prompts:", error);
-      });
+  inquirer
+    .prompt(questions)
+    .then((answers) => {
+      const markdownContent = generateMarkdown(answers);
+      writeToFile("./output/README-2.md", markdownContent);
+    });
   }
 
 // Function call to initialize app
