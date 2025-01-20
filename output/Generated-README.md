@@ -1,8 +1,8 @@
-# gilmer
+# README Generator
 
   ## Description
 
-  sgrh
+  When creating an open source project on GitHub, it’s important to have a high-quality README. You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project. A command-line application that dynamically generates a professional README.md file from a user's input.
 
   <!-- WHEN I click on the links in the Table of Contents -->
   <!-- THEN I am taken to the corresponding section of the README -->
@@ -19,7 +19,7 @@
   To install necessary dependencies, run the following commands:
 
   ```bash
-  shr
+  npm i npm i inquirer npm i colors
   ```
 
   ## Usage
@@ -27,19 +27,19 @@
   To execute the application, run the following commands:
 
   ```
-  srh
+  node index.js
   ```
 
   ## Contributing
 
-  sh
+  If you would like to contribute, please feel free to contact me.
 
   ## Tests
 
   To run tests, run the following command:
 
   ```
-  shd
+  npm test
   ```
 
   ## License
@@ -55,6 +55,6 @@ If you are interested in learning more about this license, please visit the foll
 
   If you have any questions or issues, feel free to reach out to me:
 
-  - GitHub: [https://github.com/gilmerperez](https://github.com/srh)
+  - GitHub: [https://github.com/gilmerperez](https://github.com/gilmerperez)
 
-  - Email: [gilmer2002@outlook.com](mailto:shrd)
+  - Email: [gilmer2002@outlook.com](mailto:gilmer2002@outlook.com)
