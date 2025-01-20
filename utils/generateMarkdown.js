@@ -104,7 +104,11 @@ function generateMarkdown(data) {
 
   - GitHub: [https://github.com/gilmerperez](https://github.com/${data.userGithub})
 
-  - Email: [gilmer2002@outlook.com](mailto:${data.userEmail})`;
+  - Email: [gilmer2002@outlook.com](mailto:${data.userEmail})
+  
+  The Walkthrough Video can be located here:
+  
+  [Walkthrough-Video](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=sharing)`;
 }
 
 export default generateMarkdown;
