@@ -58,3 +58,7 @@ If you are interested in learning more about this license, please visit the foll
   - GitHub: [https://github.com/gilmerperez](https://github.com/gilmerperez)
 
   - Email: [gilmer2002@outlook.com](mailto:gilmer2002@outlook.com)
+  
+  The Walkthrough Video can be located here:
+  
+  [Walkthrough-Video](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=sharing)
