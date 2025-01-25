@@ -48,7 +48,7 @@ THEN I am taken to the corresponding section of the README
 
 * A Walkthrough Video that demonstrates the functionality of the application: [Walkthrough Video Link](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=drive_link)
 
-* Generated sample README.md file is located in the output folder
+* The Generated sample README.md file is located in the output folder
 
 ## Additional Information
 
