@@ -50,8 +50,6 @@ THEN I am taken to the corresponding section of the README
 
 * Generated sample README.md file is located in the output folder
 
-* The URL of the GitHub repository: [GitHub Repository](https://github.com/gilmerperez/module-7-challenge)
-
 ## Additional Information
 
 Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
