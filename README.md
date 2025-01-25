@@ -56,4 +56,4 @@ This application needs the following tools and technologies to operate:
 * As a reminder of everything that a high-quality, professional README should contain: [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
 
 * A Walkthrough Video that demonstrates the functionality of the application: [Walkthrough Video Link](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=sharing)
-* The URL of the GitHub repository: [GitHub Repository](https://github.com/gilmerperez/readme-generator))
+* The URL of the GitHub repository: [GitHub Repository](https://github.com/gilmerperez/readme-generator)
