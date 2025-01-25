@@ -51,8 +51,8 @@ This application needs the following tools and technologies to operate:
 
 ## Additional Resources
 
-* [Inquirer.js Documentation](https://www.npmjs.com/package/inquirer) - Learn more about how to use inquirer for collecting user input.
+* Learn more about how to use inquirer for collecting user input: [Inquirer.js Documentation](https://www.npmjs.com/package/inquirer)
 
-* [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
+* As a reminder of everything that a high-quality, professional README should contain: [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
 
-* [Walkthrough Video Link](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=sharing) 
+* A Walkthrough Video that demonstrates the functionality of the application: [Walkthrough Video Link](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=sharing) 
