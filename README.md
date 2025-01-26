@@ -6,7 +6,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
-This project was designed to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
+This project was designed to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 ## Usage
 
@@ -18,9 +18,9 @@ node index.js
 
 ## Instructions
 
-* The application prompts the user for details such as the project title, description, installation instructions, usage information, contribution guidelines, test instructions, GitHub username, and email address.
+1. The application prompts the user for details such as the project title, description, installation instructions, usage information, contribution guidelines, test instructions, GitHub username, and email address.
 
-* After collecting this information, it generates a professional README.md file in the specified format.
+2. After collecting this information, it generates a professional README.md file in the specified format.
 
 ## Key Features
 
@@ -32,28 +32,27 @@ node index.js
 
 * Links the Table of Contents to corresponding sections in the README.
 
-## Additional Resources
-
-* A Walkthrough Video that demonstrates the functionality of the application: [Walkthrough Video Link](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=drive_link)
-
-* The Generated sample README file is located in the output folder
-
 ## Technology Stack
 
 This application needs the following tools and technologies to operate:
 
-* inquirer for collecting user input.
+* **inquirer** for collecting user input.
 
-* Node.js for executing the command-line application.
+* **Node.js** for executing the command-line application.
 
-* File system access to generate and save the README.md file.
+* **File system** access to generate and save the README.md file.
 
 
 ## Additional Resources
+
+* The URL of the GitHub repository: [GitHub Repository](https://github.com/gilmerperez/readme-generator)
+
+* The Generated sample README file is located in the output folder
+
+* A Walkthrough Video that demonstrates the functionality of the application: [Walkthrough Video Link](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=drive_link)
 
 * Learn more about how to use inquirer for collecting user input: [Inquirer.js Documentation](https://www.npmjs.com/package/inquirer)
 
 * As a reminder of everything that a high-quality, professional README should contain: [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
 
 * A Walkthrough Video that demonstrates the functionality of the application: [Walkthrough Video Link](https://drive.google.com/file/d/1wInm0krN3UKv4i3dzMWnnoW5jVOXxFGM/view?usp=sharing)
-* The URL of the GitHub repository: [GitHub Repository](https://github.com/gilmerperez/readme-generator)
